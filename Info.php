@@ -27,7 +27,7 @@
     function display()
     {
         $Ssongs = array("<p>Awaiting her Arrival</br> <i>Alex Barry</i></p>","<p>N°034 </br><i>- Relaxdaily</i></p>", "<p>Moonrise </br><i>-Brian Crain</i></p>","<p>River Flows in you </br> <i> -Yiruma</i></p>","<p>Stay With Me Piano Cover</br><i>-Unknown</i></p>");
-        $rSongs =array("<p>Danza Kuduro </br><i>-Don Omar</i></p>","<p>How Far I'll Go </br><i>-Alessia Cara</i></p>","<p>Dragostea Din Tei</br><i>~O-Zone</i></p>","<p>Feel This Moment </br> - Pitbull ft Christina Aguilera</p>","<p>Let Her Go </br> <i> Passenger</i></p>");
+        $rSongs =array("<p>Danza Kuduro </br><i>-Don Omar</i></p>","<p>How Far I'll Go </br><i>-Alessia Cara</i></p>","<p>Dragostea Din Tei</br><i>~O-Zone</i></p>","<p>Feel This Moment </br><i> - Pitbull ft Christina Aguilera</i></p>","<p>Let Her Go </br> <i>-Passenger</i></p>");
         echo "<h1 class = rSongs>Song Names and Artist of Random Playlist: </br></br> </h1>";
         for($i = 0; $i<10;$i++)
         {
