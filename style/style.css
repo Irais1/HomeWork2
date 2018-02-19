@@ -2,14 +2,15 @@ body{
     background-color:#000000;
     color: #F08080;
 }
-header
+header,p,footer,nav
 {
     text-align:center;
 }
 footer{
     clear:left;
-    font-size:1em;
+    font-size:2em;
     color:green;
+    text-align: center !important;
 }
 #fter img
 {
@@ -17,34 +18,49 @@ footer{
 }
 p
 {
-    text-align: center;
+    /*text-align: center;*/
     /*color:#8B0000;*/
-    color: #00FFD9;
+    color: #f88379 !important;
     font-size: 2em;
 }
 h1
 {
+    /*text-align:center;*/
     text-align:center;
-    color:#008080;
+    color:#008080 !important;
     
 }
 h2
 {
-    text-align: center;
+    /*text-align: center;*/
+    text-align:center;
+    font-size: 2em;
+    color:pink !important;
 }
-footer
+.pics
 {
     text-align: center;
 }
-/*nav a {*/
-/*    padding: 15px;*/
-/*    padding-bottom:4px;*/
-/*    font-size: 1.8em;*/
-/*    text-decoration: none;*/
-/*    color: white;*/
-/*}*/
-/*nav a:hover{*/
-/*    border-bottom: 2px orange solid;*/
-/*    font-size: 2em;*/
-/*    transition: .9s;*/
-/*}*/
+nav a {
+    padding: 15px;
+    padding-bottom:4px;
+    font-size: 1.8em;
+    text-decoration: none;
+    color: #00CED1 !important;
+    /*padding-right: 20%;*/
+}
+nav a:hover{
+    border-bottom: 2px orange solid;
+    font-size: 2em;
+    transition: .9s;
+}
+.sSongs
+{
+   font-size: 3em; 
+   color: #00FF7F!important;
+}
+.rSongs
+{
+    font-size: 3em;
+    color: #00FA9A!important;
+}
