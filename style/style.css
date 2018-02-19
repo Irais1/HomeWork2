@@ -1,0 +1,46 @@
+body{
+    background-color:000000;
+    color: #F08080;
+}
+header,main,nav,footer
+{
+    text-align:center;
+}
+footer{
+    clear:left;
+    font-size:1em;
+    color:green;
+}
+#fter img
+{
+    width:10%;
+}
+p
+{
+    text-align: center;
+    /*color:#8B0000;*/
+    color: #00FFD9;
+    font-size: 2em;
+}
+h1
+{
+    text-align:center;
+    color:#008080;
+    
+}
+h2
+{
+    text-align: center;
+}
+/*nav a {*/
+/*    padding: 15px;*/
+/*    padding-bottom:4px;*/
+/*    font-size: 1.8em;*/
+/*    text-decoration: none;*/
+/*    color: white;*/
+/*}*/
+/*nav a:hover{*/
+/*    border-bottom: 2px orange solid;*/
+/*    font-size: 2em;*/
+/*    transition: .9s;*/
+/*}*/
