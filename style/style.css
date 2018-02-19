@@ -1,8 +1,8 @@
 body{
-    background-color:000000;
+    background-color:#000000;
     color: #F08080;
 }
-header,main,nav,footer
+header
 {
     text-align:center;
 }
